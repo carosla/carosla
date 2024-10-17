@@ -28,9 +28,10 @@ Sou técnica em desenvolvimento de sistemas e bacharelanda de engenharia de soft
 </div>
 
 ---
+
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carosla&show_icons=true&theme=bear&count_private=true&text_color=FFFFFF"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=carosla&show_icons=true&show_icons=true&theme=bear&count_private=true&text_color=FFFFFF" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=carosla&show_icons=true&show_icons=true&theme=bear&count_private=true&text_color=FFFFFF"/>
 </div>
 
-![snake gif](https://github.com/carosla/carosla/blob/output/github-contribution-grid-snake.gif)
+<!--![snake_gif](https://github.com/carosla/carosla/blob/output/github-contribution-grid-snake.gif)-->
