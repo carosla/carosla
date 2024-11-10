@@ -13,7 +13,7 @@
   </a>
 </div>
 
-Sou técnica em desenvolvimento de sistemas e bacharelanda de engenharia de software
+Sou técnica em desenvolvimento de sistemas e graduanda em engenharia de software
 
 - 👩‍💻 Apaixonada por front-end
 - 📱 Desenvolvimento de apps mobile 
