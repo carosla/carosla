@@ -1,6 +1,6 @@
 <img src = "giphy.webp" width = "425px" align = "right">
 
-# ✨ Olá, bom ter você por aqui!
+# ✨ Olá, bem vindo(a) ao meu git!
 <div id="badges">
   <a href = "https://www.linkedin.com/in/anacarolinaneias/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
