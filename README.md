@@ -15,9 +15,10 @@
 
 Sou técnica em desenvolvimento de sistemas e graduanda em engenharia de software
 
-- 👩‍💻 Apaixonada por front-end
-- 📱 Desenvolvimento de apps mobile 
+- 👩‍💻 Apaixonada por Python
 - 🔒 Estudando análise de dados
+- 📱 Desenvolvimento de apps mobile 
+
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React"/>&nbsp;
