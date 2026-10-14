@@ -13,7 +13,7 @@
   </a>
 </div>
 
-Sou técnica em desenvolvimento de sistemas e graduanda em engenharia de software
+Engenheira de software e Analista de Sistemas
 
 - 👩‍💻 Apaixonada por Python
 - 🔒 Estudando análise de dados
